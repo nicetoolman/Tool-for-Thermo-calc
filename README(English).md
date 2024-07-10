@@ -13,7 +13,7 @@
 - The file name needs to start with the element system, such as "Co-Al", followed by any additional text.
 - The script can only be run from the command line as I haven't yet learned UI libraries like Tkinter or PyQt.
 - After running the script, the user is prompted to input the file name and then to write the info section of the POP file (free text input). The conversion process will then execute, and upon success, it will display "success!".
-  ![image]()
+  ![image](https://github.com/nicetoolman/Tool-for-Thermo-calc/blob/main/popfile%20converter/%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2.png)
 
 **Future Improvements (no guarantee):**
 - Compatibility with more file formats.
