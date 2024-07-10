@@ -14,7 +14,7 @@
   - 文件名需要元素系开头，比如Co-Al，然后随便写点啥
   - 只能代码界面运行，因为我还没有学tkinter和pyQT之类的UI库
   - 代码运行后会要用户输入文件名，再提示写pop文件的info部分（自由记入），之后则会执行转换功能，成功后显示"success!"
-      ！[image](https://github.com/nicetoolman/Tool-for-Thermo-calc/blob/main/popfile%20converter/%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2.png)
+      ![image](https://github.com/nicetoolman/Tool-for-Thermo-calc/blob/main/popfile%20converter/%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2.png)
 
   未来改进（不一定改嗷）：
   - 兼容更多格式原文件
