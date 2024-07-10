@@ -2,7 +2,7 @@
 ## This repository contains some small scripts I wrote to enhance the efficiency of Thermo-calc. As a beginner in Python, there are many aspects that need improvement. If you find any issues, please let me know directly. Your feedback is greatly appreciated.
 ## Current Contents
 
-# 1. POP Converter: One-click conversion of specific column-formatted Excel (xlsx) files into POP files.
+### 1. POP Converter: One-click conversion of specific column-formatted Excel (xlsx) files into POP files.
 **Why create this?**
 - When organizing experimental data, the primary goal is readability. Writing data directly into POP files can be inconvenient for later reference or modification in case of errors. Organizing data into Excel files (xlsx) is much more convenient for readability.
 - However, once the data is organized in Excel, converting hundreds or thousands of data points into POP files becomes an issue. This script handles the conversion with one click.
@@ -20,4 +20,4 @@
 - Error reporting indicating which line has an issue.
 - A user-friendly UI.
 
-# 2. No second feature yet, cuz I haven't written it. 
+### 2. No second feature yet, cuz I haven't written it. 
